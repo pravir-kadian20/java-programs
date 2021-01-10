@@ -1,3 +1,4 @@
+/*
 Diamond Numeric Pattern
  
 
@@ -10,7 +11,7 @@ Diamond Numeric Pattern
   3 4 5 
  2 3 4 5 
 1 2 3 4 5
-=
+*/
 import java.util.Scanner;
 public class Main
 {
